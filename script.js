@@ -6,7 +6,7 @@ function adicionarTarefa() {
   const mensagem = document.getElementById("mensagem");
 
   if (tarefa == "") {
-    let mensagemErro = "Ops!! campo vazio, escreva uma tarefa válida";
+    let mensagemErro = "Ops! campo vazio, escreva uma tarefa válida";
     mensagem.textContent = mensagemErro;
   } else {
     //mensagem de tarefa adicionada com sucesso
