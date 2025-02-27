@@ -37,5 +37,5 @@ O design do projeto utiliza um esquema de cores aconchegante, com fundo escuro e
 
 ---
 
-Desenvolvido por JM.
+Desenvolvido por Johnny Maia
 
