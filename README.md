@@ -35,11 +35,6 @@ O design do projeto utiliza um esquema de cores aconchegante, com fundo escuro e
 2. Abra o arquivo `index.html` em um navegador.
 3. Digite uma tarefa no campo de entrada e clique em "Adicionar Tarefa" para adicioná-la à lista.
 
-## 📌 Melhorias Futuras
-- Implementar a funcionalidade de remover tarefas.
-- Permitir marcar tarefas como concluídas.
-- Armazenamento das tarefas no **LocalStorage** para manter os dados após recarregar a página.
-
 ---
 
 Desenvolvido por Johnny Maia
